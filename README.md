@@ -10,7 +10,9 @@
 [![nicoly's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rosariuns&bg_color=0d1117&color=e55299&line=e16bb7&point=fda5b2&area=true&hide_border=true)](https://github.com/rosariuns/github-readme-activity-graph)
 
 <div align="center"> 
-<a href="https://instagram.com/rosariuns" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://instagram.com/chobytes" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@chobytes-FFB6C1?style=flat-square&logo=instagram&logoColor=white">
+  </a>
 </div>
 
 ### ʚ studying in this moment ɞ
