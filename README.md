@@ -1,4 +1,4 @@
-# 🌸 Nicoly's GitHub Stats 🌸
+# 🌸 nicoly's GitHub Stats 🌸
 
 <div align="center">
 
