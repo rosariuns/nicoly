@@ -1,3 +1,4 @@
+⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔
 # 🌸 nicoly's GitHub Stats 🌸
 
 <div align="center">
@@ -32,3 +33,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seuusuario)
 
 </div>
+
+⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔
