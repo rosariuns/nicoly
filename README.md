@@ -1,7 +1,8 @@
 # nicoly
 ### nicoly's GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rosariuns&show_icons=true&theme=dark)
+![nicoly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&hide_border=false&title_color=ffb6c1&icon_color=ff69b4&text_color=ffb6c1&bg_color=fff0f5)
+
 
 ### Most Used Languages
 
