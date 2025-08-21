@@ -7,13 +7,13 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosariuns&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
-[![Nicoly's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rosariuns&bg_color=0d1117&color=e55299&line=e16bb7&point=fda5b2&area=true&hide_border=true)](https://github.com/rosariuns/github-readme-activity-graph)
+[![nicoly's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rosariuns&bg_color=0d1117&color=e55299&line=e16bb7&point=fda5b2&area=true&hide_border=true)](https://github.com/rosariuns/github-readme-activity-graph)
 
 <div align="center"> 
 <a href="https://instagram.com/rosariuns" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
-### 🌸 studying in this moment:
+### ʚ studying in this moment ɞ
 ![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&logoColor=E34C26&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117)
@@ -23,8 +23,5 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/rosariuns/count.svg" /></p> 
 <br>
 </div>
-┊ ✩  ┊   ✧   ┊   ┊
-┊    ┊★      ┊   ✩⋆
-┊    ┊       ⊹˚ ⁭      ⁭ ⁭ ⁭ ⁭ ⁭ ⁭ ⁭ ⁭
-✩⋆    ✮ 
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
